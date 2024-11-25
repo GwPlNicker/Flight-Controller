@@ -1,4 +1,4 @@
-from pymavlink import mavutil
+from pymavlink import mavutil 
 import time
 
 # Подключаемся к виртуальному полетному контроллеру

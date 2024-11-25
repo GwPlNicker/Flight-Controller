@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd 
 import matplotlib
 matplotlib.use('Agg')  # Используйте бэкенд без GUI
 import matplotlib.pyplot as plt
